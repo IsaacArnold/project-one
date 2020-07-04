@@ -1,2 +1,2 @@
-# project-one
- This is my project one
+# Treehouse Project One
+ This is my Treehouse Techdegree project one
